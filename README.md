@@ -13,7 +13,7 @@ To analyze sales performance and identify key drivers of revenue, profitability,
 * Excel (Data Source)
 
 # 📸 Dashboard Preview
-
+https://github.com/nehakatkar1398/tableau-sales-dashboard/blob/0f8138ce10477f860c4277087279b8632d5e7263/Sales_Performace_Dashboard.png
 
 # 📈 Key Features
 * KPI Cards for Sales, Profit Margin, and Return Rate
