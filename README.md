@@ -37,3 +37,6 @@ https://github.com/nehakatkar1398/tableau-sales-dashboard/blob/0f8138ce10477f860
 1. Download the Tableau file 
 2. Open using Tableau Desktop
 3. Interact with filters and explore insights
+
+# 👤 Author
+Neha Katkar
